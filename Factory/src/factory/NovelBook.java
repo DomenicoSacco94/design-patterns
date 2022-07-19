@@ -1,7 +1,5 @@
 package factory;
 
-import factory.Book;
-
 public class NovelBook extends Book {
 
     @Override

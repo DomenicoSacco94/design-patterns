@@ -20,7 +20,7 @@ public class ElectronicBookBuilder implements BaseBuilder {
 
     @Override
     public void addCode() {
-    this.book.setIsbnCode("electronic book code");
+        this.book.setIsbnCode("electronic book code");
     }
 
     @Override
