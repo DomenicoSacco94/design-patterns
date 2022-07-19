@@ -1,4 +1,6 @@
-import java.util.Locale;
+package factory;
+
+import factory.Book;
 
 public class BookFactory extends BaseBookFactory {
     @Override

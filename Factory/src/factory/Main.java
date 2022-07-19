@@ -1,3 +1,5 @@
+package factory;
+
 class Main {
     public static void main(String args[]) {
         BookFactory factory = new BookFactory();
